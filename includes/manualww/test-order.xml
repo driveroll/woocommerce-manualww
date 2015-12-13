@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<WorkOrder>
+  <OrderID>2hermano-test</OrderID>
+  <OrderType>test</OrderType>
+  <LineItems>
+    <LineItem>
+      <LineNumber>1</LineNumber>
+      <ProductCode>VISION-PILLOW</ProductCode>
+      <ItemDescription>Pillow with graphic of a vision quest</ItemDescription>
+      <Quantity>1</Quantity>
+      <FileList>
+          <Source>http://2hermano.com/wp-content/uploads/2014/11/TBD-collab-logo.jpg</Source>
+      </FileList>
+    </LineItem>
+  </LineItems>
+  <CustomerBillingInfo>
+    <Name>David Riveroll</Name>
+    <Address1>Av. Revolucion 60</Address1>
+    <Address2></Address2>
+    <City>Tepoztlan</City>
+    <State>Morelos</State>
+    <PostalCode>62520</PostalCode>
+    <Country>MX</Country>
+    <Phone>739-395-2033</Phone>
+  </CustomerBillingInfo>
+  <CustomerShippingInfo>
+    <Name>David Riveroll</Name>
+    <Address1>Av. Revolucion 60</Address1>
+    <Address2></Address2>
+    <City>Tepoztlan</City>
+    <State>Morelos</State>
+    <PostalCode>62520</PostalCode>
+    <Country>MX</Country>
+    <Phone>739-395-2033</Phone>
+    <ShippingMethod>UPSGROUND</ShippingMethod>
+    <ShipAccountNum>A603X2</ShipAccountNum>
+    <ShipType>CPS</ShipType><!--Ship_ID -->
+  </CustomerShippingInfo>
+</WorkOrder>
